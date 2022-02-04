@@ -1,0 +1,4 @@
+#Wed Dec 01 12:29:22 MSK 2021
+base.0=D\:\\weatherapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
